@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39277694-a3d8-480f-9d2d-06d9c83f0d00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/uploads/1280px-Git-logo.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/CSS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Figma-1-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/HTML1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/IT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Mask Group 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Mition Design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Redux-logo-transparent@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/UX_UI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Web-Master.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/adobe_premiere_pro-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/androidstudio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/back-end.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/bootstrap-5-releases-with-major-changes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/card7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/close-o (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/close-o.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/coins2 18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/coins2 19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/coins2 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/front-end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/full-stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/jspng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/kotlin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/mongod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/nodejs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/npm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/react@4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/sass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/smm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/webpack_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/webstorm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/course.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/enroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/enroll.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wi3zUt3hO8IdtXVMtkuXPKSCbi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/uploads" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\backend\public\uploads" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39277694-a3d8-480f-9d2d-06d9c83f0d00" name="Changes" comment="" />
+      <created>1628927843475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628927843475</updated>
+      <workItem from="1628927845109" duration="64000" />
+      <workItem from="1628928333417" duration="4286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
